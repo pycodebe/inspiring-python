@@ -3,6 +3,7 @@ An inspiring list of great Python libraries, resources and Frameworks
 
 - [Inspiring Python](#inspiring-python)
 - [Books](#Books)
+- [Links](#Links)
 - [Database Drivers](#database-drivers)
 
 
