@@ -5,6 +5,7 @@ An inspiring list of great Python libraries, resources and Frameworks
 - [Books](#Books)
 - [Links](#Links)
 - [Database Drivers](#database-drivers)
+- [Certifications](#certifications)
 
 
 ## Books
@@ -14,10 +15,10 @@ An inspiring list of great Python libraries, resources and Frameworks
 * [realpython.com](https://realpython.com/) - Free and paid courses (Beginner and Intermediate level)
 
 ## Database Drivers
-Oracle
-* [cx_Oracle](https://cx-oracle.readthedocs.io/en/latest/) - Oracle connector with Python 3 support ([cx-Oracle](https://pypi.org/project/cx-Oracle/) pypi).
+* [cx_Oracle](https://cx-oracle.readthedocs.io/en/latest/) - Oracle connector with Python 3 support ([pypi package](https://pypi.org/project/cx-Oracle/)).
 
-
+## Certifications
+[PCAP – Certified Associate in Python Programming](https://pythoninstitute.org/certification/pcap-certification-associate/) It gives you confidence on your Python knowledge.
 
 
 
