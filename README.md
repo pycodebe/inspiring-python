@@ -16,7 +16,7 @@ An inspiring list of great Python libraries, resources and Frameworks
 * [realpython.com](https://realpython.com/) - Free and paid courses (Beginner and Intermediate level)
 
 ## Packages
-* [Click](https://click.palletsprojects.co) - Beautiful command line interface
+* [Click](https://click.palletsprojects.com) - Beautiful command line interface
 
 ## Database Drivers
 * [cx_Oracle](https://cx-oracle.readthedocs.io/en/latest/) - Oracle connector with Python 3 support ([pypi package](https://pypi.org/project/cx-Oracle/)).
