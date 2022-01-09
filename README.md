@@ -3,7 +3,8 @@ An inspiring list of great Python libraries, resources and Frameworks
 
 - [Inspiring Python](#inspiring-python)
 - [Books](#Books)
-- [Links](#Links)
+- [Websites](#Website)
+- [Packages](#Packages)
 - [Database Drivers](#database-drivers)
 - [Certifications](#certifications)
 
@@ -11,8 +12,11 @@ An inspiring list of great Python libraries, resources and Frameworks
 ## Books
 * 📕 [Automate the boring stuff with python](https://www.goodreads.com/book/show/22514127-automate-the-boring-stuff-with-python) you'll learn how to use Python to write programs that do in minutes what would take you hours to do by hand no prior programming experience required
 
-## Links
+## Website
 * [realpython.com](https://realpython.com/) - Free and paid courses (Beginner and Intermediate level)
+
+## Packages
+* [Click](https://click.palletsprojects.co) - Beautiful command line interface
 
 ## Database Drivers
 * [cx_Oracle](https://cx-oracle.readthedocs.io/en/latest/) - Oracle connector with Python 3 support ([pypi package](https://pypi.org/project/cx-Oracle/)).
